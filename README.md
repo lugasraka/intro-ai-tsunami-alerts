@@ -28,7 +28,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Bhatnagar, T. (2026). Introduction to AI: Predicting Tsunami Alerts from Earthquake Observations [Tutorial]. Climate Change AI. https://zenodo.org/records/21443711
+Bhatnagar, T. (2026). Introduction to AI: Predicting Tsunami Alerts from Earthquake Observations [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.21443710
 
 ### BibTeX
 
@@ -39,7 +39,8 @@ Bhatnagar, T. (2026). Introduction to AI: Predicting Tsunami Alerts from Earthqu
   year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://zenodo.org/records/21443711},
+  doi={https://doi.org/10.5281/zenodo.21443710},
+  booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/intro-ai-tsunami-alerts}}
 }
 ```
